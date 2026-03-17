@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
   <diagram name="Seite-1" id="9joTXHWiULQfz0FBK_T2">
-    <mxGraphModel dx="1924" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="992" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
             <mxPoint x="-180" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-VNiQ6evhioDNIkTr_T-12" connectable="0" parent="L-VNiQ6evhioDNIkTr_T-11" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;n&lt;font style=&quot;&quot;&gt;16&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="L-VNiQ6evhioDNIkTr_T-12" connectable="0" parent="L-VNiQ6evhioDNIkTr_T-11" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Label" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
