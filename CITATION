@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Social Loafing Effect: A formal model'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Leonie
+    family-names: Feltesse
+    email: l.feltesse@campus.lmu.de
+    affiliation: Ludwig-Maximilians-Universität München
+    orcid: 'https://orcid.org/0009-0001-2952-5885'
+  - given-names: Marina
+    family-names: Liegsalz
+    affiliation: Ludwig-Maximilians-Universität München
+    email: marina.liegsalz@campus.lmu.de
+  - given-names: Samuel
+    family-names: Riess
+    email: samuel.riess@campus.lmu.de
+    affiliation: Ludwig-Maximilians-Universität München
+  - email: m.speier@campus.lmu.de
+    given-names: Mira
+    family-names: Speier
+    affiliation: Ludwig-Maximilians-Universität München
+repository-code: 'https://github.com/LeonieFeltesse/SLoafing_final'
+abstract: >-
+  A formal model that explains why the individual output
+  decreases with an increasing number of co-targets and
+  Sources.
+keywords:
+  - fair theory
+  - formal theory
+  - social loafing effect
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-03-17'
